@@ -1,5 +1,15 @@
 # CZ4171 Project
 
+A speech-to-text Android app.
+
+## Installing
+
+> Only available for Android devices.
+
+Download and install the appropriate APK for your device's architecture in the [release page](https://github.com/AaronCQL/CZ4171-project/releases). You may wish to install the `app-release.apk` if you do not know what architecture your device is using.
+
+<!-- 
+
 ## Planning
 
 - Collect real-time user input (15)
@@ -16,3 +26,5 @@
 # for admin sdk to work:
 export GOOGLE_APPLICATION_CREDENTIALS="path/to/key.json"
 ```
+
+-->
